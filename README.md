@@ -26,7 +26,7 @@ The app is divided into three main tabs:
 
 The Home tab welcomes users and displays a weekly workout progress indicator, motivating users to complete more workouts.
 
-<img src="home_tab_ui.png" alt="Home Tab UI" width="600"/>
+<img src="home_tab_ui.png" alt="Home Tab UI" width="300"/>
 
 ### Upload Tab
 
@@ -40,7 +40,7 @@ The Upload tab is where users can:
 - **Sliders:** Three sliders for intensity, body weight, and load weight.
 - **Analyse Workout Button:** Sends the video and input data to the API for analysis. The process is asynchronous, allowing users to continue using the app while the video is being processed. A pop-up indicates that the workout is being analyzed, followed by an exercise summary once the response is received.
 
-<img src="upload_tab_ui.png" alt="Upload Tab UI" width="600"/>
+<img src="upload_tab_ui.png" alt="Upload Tab UI" width="300"/>
 
 ### Workout History Tab
 
@@ -48,7 +48,7 @@ The Workout History tab allows users to:
 - View past workouts.
 - Display exercise summaries when workouts are tapped. Data is pulled from our Firebase backend.
 
-<img src="workout_history_ui" alt="Workout History UI" width="600"/>
+<img src="workout_history_ui.png" alt="Workout History UI" width="300"/>
 ## How to Use
 
 1. **Login/Sign-Up:** Start by securely logging in or signing up.
