@@ -2,6 +2,9 @@
 
 Welcome to WorkoutPal, your go-to app for tracking and analyzing your workouts seamlessly. This app is designed to help you log, analyze, and review your workouts with ease. Below, you'll find the detailed description of the app's functionalities and how to use them.
 
+For more information about the exact technologies and AI models used, check out the final report pdf (group59_final_report.pdf)
+
+
 ## Functional Requirements
 
 1. **User Authentication**
